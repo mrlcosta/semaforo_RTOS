@@ -87,3 +87,7 @@ O sistema utiliza 5 tarefas independentes para controlar os diferentes component
 - A comunicação entre tarefas é feita através de variáveis globais compartilhadas
 - O modo atual do sistema é controlado pela flag global `modo_diurno`
 - O estado atual do semáforo é gerenciado pela variável global `estado_semaforo`
+
+## demonstração em video
+
+link: https://www.youtube.com/watch?v=1WYLWtGi_Ao
